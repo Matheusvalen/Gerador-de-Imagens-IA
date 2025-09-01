@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Imagens IA",
+  "description": "Uma aplicação web para gerar imagens a partir de descrições de texto usando a API do Gemini. Digite um prompt, escolha uma proporção e veja a mágica acontecer.",
+  "requestFramePermissions": []
+}
